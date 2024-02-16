@@ -1,0 +1,20 @@
+[
+    {
+        "nomeProduto": "Pierce Gym Short",
+        "tamanho": "32",
+        "cor":"Red",
+        "quantidade": 3
+    },
+    {
+        "nomeProduto": "Arcadio Gym Short",
+        "tamanho": "33",
+        "cor":"Blue",
+        "quantidade": 2
+    },
+    {
+        "nomeProduto": "Troy Yoga Short",
+        "tamanho": "34",
+        "cor":"Green",
+        "quantidade": 4
+    }
+]
